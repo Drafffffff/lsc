@@ -5,15 +5,13 @@
     background-size: contain;
 }
 
-.bg {
-
-}
 
 .navbar {
     position: absolute;
     bottom: 0px;
 }
-.navbar .button1{
+
+.navbar .button1 {
     width: 46.8px;
     height: 70.2px;
     position: absolute;
@@ -22,7 +20,8 @@
     bottom: 5px;
     z-index: 2;
 }
-.navbar .button2{
+
+.navbar .button2 {
     width: 46.8px;
     height: 70.2px;
     position: absolute;
@@ -45,36 +44,4 @@
     margin: auto;
     width: 100px;
     height: 100px;
-}
-.text {
-    bottom: 10%;
-    left: 45px;
-    overflow: scroll;
-    font-size: 14px;
-    line-height: 21px;
-    letter-spacing: 2px;
-    text-indent: 30px;
-    margin-bottom: 100px;
-}
-
-.card {
-    background-color: #fff;
-    margin: auto;
-    width: 90%;
-    border-radius: 20px;
-    margin-top: 60vw;
-    padding: 40px 40px;
-    /*margin-bottom: 400px;*/
-    padding: 30px;
-    background-size: contain;
-    opacity: 0.98;
-}
-
-.card .cardimg{
-    margin:auto;
-    width: 100%;
-    text-align: center;
-    display: inline-block;
-    margin-bottom: 20px;
-    opacity: 1;
 }
